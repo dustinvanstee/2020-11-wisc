@@ -10,7 +10,7 @@ https://github.com/dustinvanstee/2020-11-install-opence-fastai
 https://github.com/open-ce/open-ce
 
 # Vision
-ipynb notebooks in this repo
+Covid social distancing example in ipynb notebooks in this repo<br>
 https://github.com/yhenon/pytorch-retinanet
 
 # NLP
