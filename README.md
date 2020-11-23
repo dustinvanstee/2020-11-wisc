@@ -5,8 +5,9 @@ Computer Vision Demo : Social Distancing Use Case<br>
 Natural Language Demo : Sentiment Analysis using FastAI<br>
 
 
-# Content Links : 
-https://github.com/dustinvanstee/2020-11-install-opence-fastai 
+# Open-CE : 
+https://github.com/dustinvanstee/2020-11-install-opence-fastai
+https://github.com/open-ce/open-ce
 
 # Vision
 ipynb notebooks in this repo
