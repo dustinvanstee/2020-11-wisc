@@ -9,7 +9,7 @@ Natural Language Demo : Sentiment Analysis using FastAI
 https://github.com/dustinvanstee/2020-11-install-opence-fastai 
 
 # Vision
-https://github.com/dustinvanstee/2020-11-wisc
+ipynb notebooks in this repo
 https://github.com/yhenon/pytorch-retinanet
 
 # NLP
