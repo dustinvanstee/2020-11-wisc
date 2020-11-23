@@ -1,8 +1,8 @@
 # 2020-11-wisc
 
-Open–CE discussion and demonstration
-Computer Vision Demo : Social Distancing Use Case
-Natural Language Demo : Sentiment Analysis using FastAI
+Open–CE discussion and demonstration<br>
+Computer Vision Demo : Social Distancing Use Case<br>
+Natural Language Demo : Sentiment Analysis using FastAI<br>
 
 
 # Content Links : 
